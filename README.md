@@ -34,3 +34,5 @@ Built with pure HTML, CSS, and JavaScript - no frameworks or build tools needed.
 Works on all modern browsers including Chrome, Firefox, Safari, and Edge. Fully responsive design works on desktop, tablet, and mobile devices.
 📄 License
 Free to use and modify for personal and commercial projects.
+
+Link for project:https://qreattor.netlify.app/
